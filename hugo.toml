@@ -1,4 +1,4 @@
-baseURL = 'https://humane-software.com/'
+baseURL = 'https://humane-engineering.com/'
 languageCode = 'en-uk'
-title = 'Humane Software'
+title = 'Humane Engineering'
 theme = 'ananke'
