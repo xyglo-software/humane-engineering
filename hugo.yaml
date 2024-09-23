@@ -1,0 +1,19 @@
+baseURL: 'https://humane-engineering.com/'
+languageCode: 'en-uk'
+title: 'Humane Engineering'
+theme: 'ananke'
+params:
+  contact:
+    email: me@richardwbown.com
+  subtitle: Some stuff there
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Manifesto
+    pageRef: /manifesto
+    weight: 20
+  - name: Contact
+    pageRef: /contact
+    weight: 30
